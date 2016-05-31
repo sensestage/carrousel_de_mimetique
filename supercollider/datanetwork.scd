@@ -1,6 +1,7 @@
 "pydongui.py".runInTerminal; NetAddr.langPort.postln;
 
-// OSCFunc.trace( false );
+//
+OSCFunc.trace( true );
 
 x = SWDataNetwork.new;
 s.boot;
